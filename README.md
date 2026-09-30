@@ -1,5 +1,7 @@
 # Chalk
 
+> Chalk now lives in [Palette](https://github.com/iamkaf/palette/tree/main/chalk), along with the other pack tools. This repository is archived; its existing releases stay here.
+
 Chalk builds and tests Minecraft datapacks that work across Minecraft versions. You write
 the pack once for the newest version, put the few files that differ on older versions next
 to the files they replace, and Chalk builds one zip that loads on every version you
